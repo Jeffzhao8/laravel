@@ -34,7 +34,7 @@
                                 <p>
                                    <a href="#"><i class="fa fa-building-o" aria-hidden="true" style="font-size: 40"></i></a>
                                 </p>
-                                 <span>Rent Ads</span>
+                                 <span>Rent Ads RRRRR</span>
                             </div> 
 
 
