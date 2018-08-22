@@ -28,7 +28,7 @@
                                          <span class="glyphicon glyphicon-gift"></span>
                                     </a>
                                 </p>
-                                 <span>Find a Deliveryman</span>
+                                 <span>Find a Deliveryman newman new man new man</span>
                             </div> 
                             <div class="col-md-2 col-md-offset-1" style="border:0px solid black; text-align: center">
                                 <p>
